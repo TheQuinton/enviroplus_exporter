@@ -7,7 +7,7 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** tijmenvandenbrink, enviroplus_exporter, tijmenvdbrink, email
+*** TheQuinton, enviroplus_exporter, tijmenvdbrink, email
 -->
 
 
@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/tijmenvandenbrink/enviroplus_exporter">
+  <a href="https://github.com/TheQuinton/enviroplus_exporter">
     <img src="logo/logo.png" alt="Logo" width="160" height="160">
   </a>
 
@@ -38,14 +38,14 @@
   <p align="center">
     Prometheus exporter for enviroplus module by Pimoroni
     <br />
-    <a href="https://github.com/tijmenvandenbrink/enviroplus_exporter"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/TheQuinton/enviroplus_exporter"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/tijmenvandenbrink/enviroplus_exporter">View Demo</a>
+    <a href="https://github.com/TheQuinton/enviroplus_exporter">View Demo</a>
     ·
-    <a href="https://github.com/tijmenvandenbrink/enviroplus_exporter/issues">Report Bug</a>
+    <a href="https://github.com/TheQuinton/enviroplus_exporter/issues">Report Bug</a>
     ·
-    <a href="https://github.com/tijmenvandenbrink/enviroplus_exporter/issues">Request Feature</a>
+    <a href="https://github.com/TheQuinton/enviroplus_exporter/issues">Request Feature</a>
   </p>
 </p>
 
@@ -71,7 +71,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/tijmenvandenbrink/enviroplus_exporter)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/TheQuinton/enviroplus_exporter)
 
 ### Built With
 
@@ -105,7 +105,7 @@ We're going to run the enviroplus-exporter as the user ```pi``` in the directory
 1.Clone the enviroplus-exporter repository
 ```sh
 cd
-git clone https://github.com/tijmenvandenbrink/enviroplus_exporter.git
+git clone https://github.com/TheQuinton/enviroplus_exporter.git
 sudo cp -r enviroplus_exporter /usr/src/
 sudo chown -R pi:pi /usr/src/enviroplus_exporter
 ```
@@ -254,7 +254,7 @@ There is a Dockerfile available if you'd like to run as a docker container.
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/tijmenvandenbrink/enviroplus_exporter/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/TheQuinton/enviroplus_exporter/issues) for a list of proposed features (and known issues).
 
 
 <!-- CONTRIBUTING -->
@@ -282,16 +282,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/tijmenvandenbrink/enviroplus-exporter
-[contributors-url]: https://github.com/tijmenvandenbrink/enviroplus_exporter/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/tijmenvandenbrink/enviroplus-exporter?label=Fork
-[forks-url]: https://github.com/tijmenvandenbrink/enviroplus_exporter/network/members
-[stars-shield]: https://img.shields.io/github/stars/tijmenvandenbrink/enviroplus-exporter
-[stars-url]: https://github.com/tijmenvandenbrink/enviroplus_exporter/stargazers
-[issues-shield]: https://img.shields.io/github/issues-raw/tijmenvandenbrink/enviroplus-exporter
-[issues-url]: https://github.com/tijmenvandenbrink/enviroplus_exporter/issues
-[license-shield]: https://img.shields.io/github/license/tijmenvandenbrink/enviroplus-exporter
-[license-url]: https://github.com/tijmenvandenbrink/enviroplus_exporter/blob/master/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/tijmenvandenbrink
+[contributors-shield]: https://img.shields.io/github/contributors/TheQuinton/enviroplus-exporter
+[contributors-url]: https://github.com/TheQuinton/enviroplus_exporter/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/TheQuinton/enviroplus-exporter?label=Fork
+[forks-url]: https://github.com/TheQuinton/enviroplus_exporter/network/members
+[stars-shield]: https://img.shields.io/github/stars/TheQuinton/enviroplus-exporter
+[stars-url]: https://github.com/TheQuinton/enviroplus_exporter/stargazers
+[issues-shield]: https://img.shields.io/github/issues-raw/TheQuinton/enviroplus-exporter
+[issues-url]: https://github.com/TheQuinton/enviroplus_exporter/issues
+[license-shield]: https://img.shields.io/github/license/TheQuinton/enviroplus-exporter
+[license-url]: https://github.com/TheQuinton/enviroplus_exporter/blob/master/LICENSE
 [product-screenshot]: images/screenshot.png
